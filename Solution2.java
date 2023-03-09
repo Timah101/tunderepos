@@ -15,9 +15,11 @@ public class Solution2 {
 
 public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        
+        System.out.println("enter first number");
         int i = scan.nextInt();
+        System.out.println("enter second number");
         scan.nextLine();
+        System.out.println("enter third number");
         double d = scan.nextDouble();
         scan.nextLine();
         String s = scan.nextLine();
