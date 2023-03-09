@@ -12,7 +12,7 @@ package hackerrank;
 public class test {
 
     public static void main(String args[]) {
-        System.out.println("We are testing modifying a file in another branch");
+
 
         int a = 5;
         int b = 3;
