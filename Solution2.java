@@ -25,6 +25,7 @@ public static void main(String[] args) {
         String s = scan.nextLine();
         scan.close();
 
+
         // Write your code here.
 
         System.out.println("String: " + s);
