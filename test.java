@@ -13,7 +13,7 @@ public class test {
 
     public static void main(String args[]) {
         System.out.println("We are testing modifying a file in another branch");
-        System.out.println("Currently working in FixTemp branch");
+
         int a = 5;
         int b = 3;
         int n = 5;
